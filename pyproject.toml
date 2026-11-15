@@ -5,12 +5,23 @@ build-backend = "hatchling.build"
 [project]
 name = "lw_blotter_tools"
 dynamic = ["version"]
+description = "A Python library to handle Logic World save files."
+readme = "README.md"
+keywords = ["Logic World", "blotter"]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Games/Entertainment"
+]
 requires-python = ">= 3.8"
 dependencies = [
 ]
 authors = [{ name = "Diogo Cruz Diniz" }]
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Repository = "https://github.com/didas72/lw_blotter_tools"
 
 [project.optional-dependencies]
 dev = [
