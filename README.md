@@ -1,5 +1,7 @@
 # LW Blotter Tools
 
+[![AI:0 ZERO](https://img.shields.io/badge/AI-ZERO-grey?style=flat&logoSize=auto&labelColor=13171f)](https://0rwx.com)
+
 This library aims to make programmatic interaction with Logic World's save file format easier.
 
 ## Installation
